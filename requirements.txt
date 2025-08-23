@@ -7,3 +7,4 @@ statsmodels
 folium
 streamlit-folium
 Pillow
+streamlit-lottie
