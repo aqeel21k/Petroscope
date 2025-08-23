@@ -7,4 +7,4 @@ statsmodels
 folium
 streamlit-folium
 Pillow
-pip3 install scipy
+scipy
