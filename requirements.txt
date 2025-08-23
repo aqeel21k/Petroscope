@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+numpy
+scipy
+statsmodels
+folium
+streamlit-folium
+Pillow
+pip3 install scipy
