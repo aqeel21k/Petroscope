@@ -7,4 +7,3 @@ statsmodels
 folium
 streamlit-folium
 Pillow
-scipy
